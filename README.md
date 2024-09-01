@@ -1,2 +1,3 @@
-# AI-Class-BFS-DFS-UCS-GREEDY
-PUCPR Artificial Intelligence class solving optimization problems
+# AI Class
+Created some search algorithms in order to solve optimization problems (BFS DFS UCS GREEDY A*)
+
